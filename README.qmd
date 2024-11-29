@@ -1,0 +1,11 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+## NGN Mutual Funds Performance Report
+
+## Introduction
+
+This project ranks the monthly performance of mutual funds in Nigeria using the weekly data as released on the [SEC website](www.sec.gov.ng)
